@@ -1,0 +1,12 @@
+Criando ambiente virtual: [ python -m venv .<nome do ambiente> ]
+    ex: python -m venv .venv
+
+Ativando o ambiente: .\.<nome ambiente virtual>\Scripts\activate 
+    ex: .\.v1\Scripts\activate
+
+Salvar todas as bibliotecas baixadas dentro do arquivo [requirements.txt]: 
+-> pip freeze > requirements.txt
+
+Entrar no ambiente Jupter Notebook:
+-> criar um arquivo com final [.ipynb] -> selecionar o kernel do
+    ambiente virtual que foi criado
