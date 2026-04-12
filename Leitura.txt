@@ -1,0 +1,6 @@
+2024-01-15 08:30:00 INFO Usuário 123 fez login
+2024-01-15 08:31:00 ERROR Falha na autenticação do usuário 456
+2024-01-15 08:32:00 WARNING Tentativa de acesso suspeita
+2024-01-15 08:33:00 CRITICAL Servidor de banco de dados offline
+2024-01-15 08:34:00 INFO Backup iniciado
+2024-01-15 08:35:00 ERROR Timeout na conexão com API externa
